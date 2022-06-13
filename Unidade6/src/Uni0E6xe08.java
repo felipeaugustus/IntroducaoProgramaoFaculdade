@@ -1,6 +1,6 @@
 import java.util.Scanner;
-public class Uni08Exe08 {
-    private Uni08Exe08() {
+public class Uni0E6xe08 {
+    private Uni0E6xe08() {
         Scanner tec = new Scanner(System.in);
         int n = 0;
         do {
@@ -48,6 +48,6 @@ public class Uni08Exe08 {
         }
     }
     public static void main(String[] args) {
-        new Uni08Exe08();
+        new Uni0E6xe08();
     }
 }
